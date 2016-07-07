@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-07 14:27:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>46883690db602200a98b56f0cf9619fc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_4853_k16_lab</sys_name>
